@@ -1,0 +1,176 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color:#212529;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-weight: 600;
+    margin: 30px 200px;
+}
+
+h2 {
+    font-weight: 300;
+}
+ 
+/* Color Section */
+
+.color_section {
+  border: 1px solid rgb(163, 163, 163);
+  padding: 10px;
+  margin: 30px 200px;
+  background-color: #2B3035;
+}
+
+p {
+    display: inline-block;
+}
+
+#Azalea {
+    font-family: 'Arial Black', sans-serif;
+    font-size: 15px;
+    color: rgb(213, 32, 171);
+    background-color: rgba(255, 213, 223, 1);
+    margin: 15px;
+    margin-right: 2px;
+    padding: 40px 170px;
+    text-align: center;
+}
+
+#Deco {
+    font-family: 'Arial Black', sans-serif;
+    font-size: 15px;
+    color: rgba(1, 100, 1, 1);
+    background-color: rgba(204, 240, 200, 1);
+    margin: 15px;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding: 40px 170px;
+    text-align: center;
+}
+
+#Tidal {
+    font-family: 'Arial Black', sans-serif;
+    font-size: 15px;
+    color:rgb(65, 100, 24);
+    background-color: rgba(220, 255, 160, 1);
+    margin: 15px;
+    margin-left: 2px;
+    margin-right: 1px;   
+    padding: 40px 170px;
+    text-align: center;
+
+}
+
+#Beige {
+    font-family: 'Arial Black', sans-serif;
+    font-size: 15px;
+    color: rgb(91, 74, 35);
+    background-color: rgba(255, 228, 211, 1);
+    margin: 15px;
+    padding: 40px 168px;
+    text-align: center;
+
+}
+
+/* Font Section */
+
+.font_section {
+  border: 1px solid rgb(163, 163, 163);
+  padding: 10px;
+  margin: 30px 200px;
+  background-color: #2B3035;
+}
+
+.font_section h3 {
+    text-decoration: underline;
+}
+
+.font_section p {
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+
+.source-code-pro {
+    font-family: 'Source Code Pro', monospace ;
+    font-size: 17px;
+    line-height: 1.2;
+    background-color: rgba(9, 10, 17, .8);
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    border: 1px solid whitesmoke;
+    vertical-align: middle;
+}
+
+.Nunito-Sans {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 17px;
+    line-height: 1.2;
+    background-color: rgba(9, 10, 17, .8);
+    padding: 10px;
+    margin: 10px;
+    margin-left: 100px;
+    display: inline-block;
+    border: 1px solid whitesmoke;
+    vertical-align: middle;
+}
+
+.Story-Script {
+    font-family: 'Story Script', cursive;
+    font-size: 19px;
+    background-color: rgba(9, 10, 17, .8);
+    padding: 10px;
+    margin: 10px;
+    width: fit-content;
+    border: 1px solid whitesmoke;
+}
+
+.normal {
+    font-weight: 400;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.italic {
+    font-style: italic;
+}
+
+/*Text Style Section */
+
+.text-style-section {
+  border: 1px solid rgb(163, 163, 163);
+  padding: 10px;
+  margin: 30px 200px;
+  background-color: #2B3035;
+}
+
+.text-style-section h1 {
+    text-align: left;
+    font-size: 26px;
+    font-weight: 700;
+    margin: 32px 0;;
+    font-family: 'Nunito Sans';
+}
+
+.text-style-section h2 {
+    text-align: left;
+    font-size: 18px;
+    font-weight: 500;
+    margin: 24px 0;
+    font-family: 'Source Code Pro';
+}
+
+.text-style-section p {
+    text-align: left;
+    font-size: 14px;
+    font-weight: 400;
+    margin: 16px 0;
+    font-family: 'Story Script';
+}
